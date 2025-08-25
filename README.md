@@ -61,4 +61,4 @@ Useful for academic institutions and policymakers to align curriculum and tech w
 Screenshots/Demos
 Show What The Dashboard Looks Like.
 
-Example: 
+Example: [https://github.com/devanshudwivedi619/Stack-Overflow-Power-bi-Dashboard/blob/main/Snapshot%20of%20the%20Dashbaord.png.png]
